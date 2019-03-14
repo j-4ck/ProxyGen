@@ -1,3 +1,7 @@
+# long live deletehumanity
+#
+# NOTE: OUTPUT IS SENT TO THE TERMINAL. THIS ALLOWS FOR GREP / PIPES (ETC)
+# TO CREATE A PROXY LIST, SIMPLY USE: python proxygen.py > proxies.txt
 import requests
 from bs4 import BeautifulSoup
 import sys
